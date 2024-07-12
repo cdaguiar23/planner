@@ -3,7 +3,7 @@ package com.rocketseat.planner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "participant")
+@SpringBootApplication
 public class PlannerApplication {
 
 	public static void main(String[] args) {

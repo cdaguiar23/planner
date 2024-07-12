@@ -1,4 +1,4 @@
-package participant;
+package com.rocketseat.planner.participant;
 
 import org.springframework.stereotype.Service;
 
